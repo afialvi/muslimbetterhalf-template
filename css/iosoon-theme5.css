@@ -38,7 +38,7 @@
 }
 
 .website-logo .logo {
-    background-image: url("../images/logo.png");
+    background-image: url("../images/logowithtext.png");
 }
 
 .website-logo .logo img {
@@ -58,11 +58,12 @@
 }
 
 .website-logo-inside img {
-    width: 100px;
+    width: 210px;
+    height: 38px;
 }
 
 .website-logo-inside .logo {
-    background-image: url("../images/logo.png");
+    background-image: url("../images/logowithtext.png");
 }
 
 .website-logo-inside .logo img {
@@ -521,10 +522,10 @@
     }
 
     .website-logo .logo {
-        background-image: url("../images/logo.png");
+        background-image: url("../images/logowithtext.png");
     }
 
     .form-body.without-side .website-logo .logo {
-        background-image: url("../images/logo.png");
+        background-image: url("../images/logowithtext.png");
     }
 }
