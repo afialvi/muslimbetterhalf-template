@@ -502,6 +502,11 @@
     background-color: #816d6d;
 }
 
+.footer-content{
+    width: 100%;
+    text-align: center;
+}
+
 /* -----------------------------------
     2 - Responsive Styles
 ------------------------------------*/
